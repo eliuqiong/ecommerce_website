@@ -24,10 +24,10 @@ The repository is a start point for most of my professional projects; for this, 
 ### Ubuntu
 #### Step 1: Prerequisites
 1. Have Python installed
-...
+```
 $ python3 --version
-...
--     Create and activate a virtual environment for your project
+```
+2. Create and activate a virtual environment for your project
 $ python3 -m venv venv
 $ source venv/bin/activate
 
