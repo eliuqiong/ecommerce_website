@@ -39,6 +39,5 @@ pip install django
 4. Install MySQL and set it up on your local machine or use a service like AWS RDS.
 ```
 sudo apt-get install default-libmysqlclient-dev
-```
 pip install mysqlclient
 ```
