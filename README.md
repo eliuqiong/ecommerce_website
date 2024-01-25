@@ -41,3 +41,9 @@ pip install django
 sudo apt-get install default-libmysqlclient-dev
 pip install mysqlclient
 ```
+#### step 2: Set up the Django Project
+```
+django-admin startproject ecommerce_site
+cd ecommerce_site
+python manage.py startapp shop
+```
